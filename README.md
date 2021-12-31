@@ -1,5 +1,5 @@
 # InstallMonoGameLinuxScript
-This script is for installing MonoGame on Linux Mint 20.2 Uma, Ubuntu 20.04 Focal Fossa and Ubuntu 21.04 Hirsute Hippo
+This script is for installing MonoGame on Linux Mint 20.2 Uma, Ubuntu 20.04 Focal Fossa, Ubuntu 21.04 Hirsute Hippo and Ubuntu 21.10 Impish Indri
 ## Installation
 1. clone this repo
 1. run the `install-monogame.sh` script
