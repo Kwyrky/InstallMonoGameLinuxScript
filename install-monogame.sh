@@ -3,6 +3,8 @@
 echo "+++++++++ `date "+%F %T"`: ${0##*/} $1 $2 $3 +++++++++"
 set -x
 
+INSTALL_SCRIPT_VERSION="1"
+
 BASEDIR="$(dirname $0)"
 BASENAME="$(basename $0)"
 

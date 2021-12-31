@@ -13,5 +13,5 @@ cd "$SLNDIR"
 dotnet new mgdesktopgl -o "$PROJECT"
 dotnet new sln -n "$SOLUTION"
 dotnet sln add "${PROJECT}/${PROJECT}.csproj"
-
+cd -
 dotnet run --project "${SLNDIR}/${PROJECT}/${PROJECT}.csproj"
