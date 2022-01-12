@@ -29,6 +29,7 @@ sudo apt-get -y install curl
 sudo apt-get -y install apt-transport-https
 sudo apt-get -y install dotnet-sdk-3.1
 sudo apt-get -y install dotnet-sdk-5.0
+sudo apt-get -y install dotnet-sdk-6.0
 
 sudo apt-get -y install gnupg ca-certificates
 sudo apt-key adv --keyserver "hkp://keyserver.ubuntu.com:80" --recv-keys "3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF"
